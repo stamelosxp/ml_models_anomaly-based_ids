@@ -97,7 +97,8 @@ Use `plot_results.ipynb` to generate visual comparisons of model performance inc
 ## Project Structure  
 
 The repository is organized as follows:  
-  
+
+- **`preprocessing.ipynb`**: Data preprocessing including cleaning, encoding, and feature selection.
 - **`xgb_bin_hyper_tun.ipynb`**: Hyperparameter tuning for XGBoost binary classification.  
 - **`xgb_bin_best.ipynb`**: Best XGBoost model for binary classification.  
 - **`mlp_bin_hyper_tun.ipynb`**: Hyperparameter tuning for MLP binary classification.  
